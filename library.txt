@@ -1,0 +1,153 @@
+%A Julian Anderson
+%T A provisional history of spectral music
+%J Contemporary Music Review
+%V 19
+%N 2
+%S Spectral Music: History and Techniques
+%P 7-22
+%D 2000
+
+%A Milton Babbitt
+%T Twelve-Tone Invariants as Compositional Determinants
+%J The Muical Quarterly
+%V 46
+%N 2
+%S Problems of Modern Music. The Princeton Seminar in Advanced Musical Studies
+%P 246-259
+%D 1960
+
+%A Milton Babbitt
+%T Some Aspects of Twelve Tone Composition
+%J The Score
+%V 12
+%D 1955
+
+%A Benjamin Boretz
+%T Meta-Variations: Studies in the Foundations of Musical Thought I
+%J Perspectives of New Music
+%V 8
+%N 1
+%P 1-74
+%D 1969
+
+%A Ornette Colemann
+%T Change of the Century
+%S Liner Notes for Ornette Colemann "Change of the Century"
+%I Atlantic SD 1372
+%D 1960
+
+%A Jacques Derrida
+%O Peggy Kanuf, translator
+%T Specters of Marx
+%I Routledge
+%C New York, NY
+%D 2006
+
+%A Dainin Katagiri
+%T Each Moment Is the Universe
+%I Shambhala Publications
+%C Boulder, CO
+%D 2007
+
+%A George Lewis
+%T Improvised Music after 1950: Afrological and Eurological Perspectives
+%J Black Music Research Journal
+%S Supplement: Best of BMRJ
+%V 22
+%P 215-246
+%D 2002
+
+%A Alfred Mann
+%T The Study of Fugue
+%I W. W. Norton & Company
+%C New York, NY
+%D 1965
+
+%A Harry Partch
+%T Genesis of a Music
+%I Da Capo Press
+%C New York, NY
+%D 1974
+
+%A J.K. Randall
+%T Pitch-Time Correlation (1961-62)
+%I Open Space
+%C Red Hook, NY
+%D 2016
+
+%A Curtis Roads
+%T The Computer Music Tutorial
+%I The MIT Press
+%C Cambridge, MA
+%D 1996
+
+%A Curtis Roads
+%T Microsound
+%I The MIT Press
+%C Cambridge, MA
+%D 2001
+
+%A Edward Said
+%T Opponents, Audiences, Constituencies and Community
+%J Critical Inquiry
+%V 9
+%N 1
+%S The Politics of Interpretation
+%P 1-26
+%I University of Chicago Press
+%D 1982
+
+%A Arnold Schoenberg
+%A Leonard Stein
+%T Composition with Twelve Tones
+%B Style and Idea: Selected Writings of Arnold Schoenberg
+%I University of California Press
+%D 1984
+
+%A Daniel Starr
+%A Robert Morris
+%T A General Theory of Combinatoriality and the Aggregate Part 1
+%J Perspectives of New Music
+%V 16
+%N 1
+%P 3-35
+%D 1977
+
+%A Daniel Starr
+%A Robert Morris
+%T A General Theory of Combinatoriality and the Aggregate Part 2
+%J Perspectives of New Music
+%V 16
+%N 2
+%P 50-84
+%D 1978
+
+%A Karlheinz Stockhausen
+%A Robin Maconie
+%T Stockhausen on Music
+%I Marion Boyars
+%C New York, NY
+%D 1991
+
+%A Peter Westergaard
+%T Toward a Twelve-Tone Polyphony
+%J Perspectives of New Music
+%V 4
+%N 2
+%P 90-112
+%D 1966
+
+%A Charles Wourinen
+%T Simple Composition
+%I Longman
+%C New York, NY
+%D 1979
+
+%A Godfrey Winham
+%T Composition With Arrays
+%J Perspectives of New Music
+%V 9
+%N 1
+%P 43-67
+%D 1970
+%O https://doi.org/10.2307/832193
