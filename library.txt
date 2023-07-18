@@ -1,3 +1,9 @@
+%A Louis Althusser
+%T On Ideology
+%I Verso Books
+%C New York, NY
+%D 2020
+
 %A Julian Anderson
 %T A provisional history of spectral music
 %J Contemporary Music Review
@@ -36,12 +42,38 @@
 %I Atlantic SD 1372
 %D 1960
 
+%A Gilles Deleuze
+%A Felix Guattari
+%O Brian Massumi, translator
+%T A Thousand Plateaus: Capitalism and Schizophrenia
+%I University of Minnestoa Press
+%D 1987
+
 %A Jacques Derrida
 %O Peggy Kanuf, translator
 %T Specters of Marx
 %I Routledge
 %C New York, NY
 %D 2006
+
+%A Mark Fisher
+%T Capitalist Realism: Is There No Alternative?
+%I Zero Books
+%C Washington, USA
+%D 2009
+
+%A Mark Fisher
+%T Ghosts of My Life: Writings of Depression, Hauntology and Lost Futures
+%I Zero Books
+%C Washington, USA
+%D 2014
+
+%A Allan Janik
+%A Stephen Toulmmin
+%T Witgenstein's Vienna
+&I Simon and Schuster
+%C New York, NY
+%D 1973
 
 %A Dainin Katagiri
 %T Each Moment Is the Universe
@@ -128,6 +160,12 @@
 %I Marion Boyars
 %C New York, NY
 %D 1991
+
+%A Eric Walter White
+%T Stravinsky: The Composer and his Works
+%I University of California Press
+%C Berkeley, CA
+%D 1979
 
 %A Peter Westergaard
 %T Toward a Twelve-Tone Polyphony
