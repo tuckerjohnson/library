@@ -27,6 +27,14 @@
 %J The Score
 %V 12
 %D 1955
+%O https://www.jstor.org/stable/10.7757/persnewmusi.50.1-2.0007
+
+%A Benjamin Boretz
+%E Tildy Bayar
+%T Inside In...Outside Out
+%I Open Space
+%C Redhook, NY
+%D 2020
 
 %A Benjamin Boretz
 %T Meta-Variations: Studies in the Foundations of Musical Thought I
@@ -36,11 +44,28 @@
 %P 1-74
 %D 1969
 
+%A Benjamin Boretz
+%T The Zeitgeist of Perspectives, ab origine
+%J Perspectives of New Music
+%V 50
+%N 1-2
+%P 9-17
+%D 2012
+%O JSTOR, https://doi.org/10.7757/persnewmusi.50.1-2.0009
+
 %A Ornette Colemann
 %T Change of the Century
 %S Liner Notes for Ornette Colemann "Change of the Century"
 %I Atlantic SD 1372
 %D 1960
+
+%A Steve Coleman
+%T What Is M-Base?
+%D https://m-base.com/what-is-m-base/
+
+%A Steve Coleman
+%T The M-Base Collective
+%D https://m-base.com/the-m-base-collective/
 
 %A Gilles Deleuze
 %A Felix Guattari
@@ -81,7 +106,7 @@
 %C Boulder, CO
 %D 2007
 
-%A George Lewis
+%A George E. Lewis
 %T Improvised Music after 1950: Afrological and Eurological Perspectives
 %J Black Music Research Journal
 %S Supplement: Best of BMRJ
@@ -89,11 +114,26 @@
 %P 215-246
 %D 2002
 
+%A George E. Lewis
+%T A Power Stronger Than Itself: The AACM and American Experimental Music
+%I University of Chicago Press
+%D 2008
+%O ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/rochester/detail.action?docID=408160.
+
 %A Alfred Mann
 %T The Study of Fugue
 %I W. W. Norton & Company
 %C New York, NY
 %D 1965
+
+%A Robert Morris
+%T Interview
+%J Perspectives of New Music
+%V 50
+%N 1-2
+%P 62-82
+%D 2012
+%O JSTOR, https://doi.org/10.7757/persnewmusi.50.1-2.0062
 
 %A Harry Partch
 %T Genesis of a Music
@@ -160,6 +200,10 @@
 %I Marion Boyars
 %C New York, NY
 %D 1991
+
+%A Wadada Leo Smith
+%T Notes (8 pieces) Source a New World Music: Creative Music
+%D 1973
 
 %A Eric Walter White
 %T Stravinsky: The Composer and his Works
