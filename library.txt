@@ -61,11 +61,11 @@
 
 %A Steve Coleman
 %T What Is M-Base?
-%D https://m-base.com/what-is-m-base/
+%D www.m-base.com/what-is-m-base/
 
 %A Steve Coleman
 %T The M-Base Collective
-%D https://m-base.com/the-m-base-collective/
+%D www.m-base.com/the-m-base-collective/
 
 %A Gilles Deleuze
 %A Felix Guattari
@@ -118,7 +118,7 @@
 %T A Power Stronger Than Itself: The AACM and American Experimental Music
 %I University of Chicago Press
 %D 2008
-%O ProQuest Ebook Central, https://ebookcentral.proquest.com/lib/rochester/detail.action?docID=408160.
+%O ProQuest Ebook Central, www.ebookcentral.proquest.com/lib/rochester/detail.action?docID=408160.
 
 %A Alfred Mann
 %T The Study of Fugue
@@ -133,7 +133,7 @@
 %N 1-2
 %P 62-82
 %D 2012
-%O JSTOR, https://doi.org/10.7757/persnewmusi.50.1-2.0062
+%O JSTOR, www.doi.org/10.7757/persnewmusi.50.1-2.0062
 
 %A Harry Partch
 %T Genesis of a Music
@@ -141,11 +141,18 @@
 %C New York, NY
 %D 1974
 
-%A J.K. Randall
+%A James K. Randall
 %T Pitch-Time Correlation (1961-62)
 %I Open Space
 %C Red Hook, NY
 %D 2016
+
+%A James K. Randall
+%T JKR 2011 NYPL remastered
+%J YouTube
+%I Uploaded by Open Space
+%D 29 July 2020
+%O www.youtube.com/watch?v=3KnpKHuBSmY
 
 %A Curtis Roads
 %T The Computer Music Tutorial
